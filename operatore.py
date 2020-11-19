@@ -32,6 +32,7 @@ while True:
     scelta=input("""
     Azioni possibili:
     areaq ->se vuoi calcolare l'area del quadrato
+    arear ->se vuoi calcolare l'area del rettangolo 
     """)
     if scelta=="areaq":
         lato=int(input("Inserisci il lato del quadrato:"))
